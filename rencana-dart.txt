@@ -1,0 +1,2 @@
+Rencana:
+- Setelah selesai lanjut ke Flutter
