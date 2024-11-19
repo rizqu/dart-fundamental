@@ -1,2 +1,3 @@
 Resolusi before 2025:
 - Menyelesaikan dart fundamental
+- Belajar atleast 3 jam/day
