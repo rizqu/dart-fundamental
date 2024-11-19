@@ -1,0 +1,2 @@
+Resolusi before 2025:
+- Menyelesaikan dart fundamental
