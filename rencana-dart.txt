@@ -1,0 +1,3 @@
+Rencana:
+- Setelah selesai lanjut ke Flutter
+- Lalu buat app Food Order
